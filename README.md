@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tuturry
 - 👀 I’m interested in DataCience Ecology Stingless-bee
-- 📊 I’m currently learning R
-- 💞️ I’m looking to collaborate on Ecological niche modeling
+- 📊 I’m currently learning Python 
+- 💞️ I’m looking to collaborate in data cience projects
 - 📫 How to reach me carlobenettiwork@gmail.com
 - 🐝 I´m currently working on an article about stingless bee of the Cerrado (Savvana kind)
 
